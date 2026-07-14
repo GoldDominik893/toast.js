@@ -15,7 +15,7 @@ The notification system has 3 notification types, and allows you to configure th
 Example toast call
 
 ```js
-toast('success', 'URL Copied', 4000);
+toast('success', 'Settings saved successfully', 4000);
 ```
 
 this call shows this alert on the top right of the screen
